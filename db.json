@@ -1,14 +1,14 @@
 {
-profiles:[
+"profiles":[
   {
-   id:1,
-   name:"shan",
-   class:"MCA"
+   "id":1,
+   "name":"shan",
+   "class":"MCA"
   },
   {
-  id:2,
-  name:"Sony",
-  class:"MBA"
+  "id":2,
+  "name":"Sony",
+  "class":"MBA"
   }
 ]
 }
